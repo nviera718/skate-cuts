@@ -1,0 +1,5 @@
+scenedetect[opencv]>=0.6
+requests>=2.28
+Pillow>=9.0
+click>=8.0
+tqdm>=4.64
