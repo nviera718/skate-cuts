@@ -1,0 +1,5 @@
+scenedetect[opencv]>=0.6
+click>=8.0
+tqdm>=4.64
+fastapi>=0.110
+uvicorn[standard]>=0.29
